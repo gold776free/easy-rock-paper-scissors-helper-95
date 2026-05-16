@@ -1,2 +1,9 @@
-# easy-rock-paper-scissors-helper-95
-A simple rock paper scissors project
+# Rock Paper Scissors
+
+A simple rock paper scissors project.
+\n
+## Getting Started
+
+```bash
+python app.py
+```
